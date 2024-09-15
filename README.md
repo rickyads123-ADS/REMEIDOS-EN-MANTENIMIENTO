@@ -65,11 +65,11 @@
 </head>
 <body>
 
-    <a href="URL_1" class="https://viidei.icu/rrrr.html">1</a>
-    <a href="URL_2" class="https://viidei.icu/rrrr.html">2</a>
-    <a href="URL_3" class="btn-url">3</a>
-    <a href="URL_4" class="btn-url">4</a>
-    <a href="URL_5" class="btn-url">5</a>
+<a href="https://viidei.icu/rrrr.html" class="btn-url">1</a>
+<a href="https://viidei.icu/rrrr.html" class="btn-url">2</a>
+<a href="URL_3" class="btn-url">3</a>
+<a href="URL_4" class="btn-url">4</a>
+<a href="URL_5" class="btn-url">5</a>
 
 </body>
 </html>
