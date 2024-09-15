@@ -41,14 +41,15 @@
         caseros para un vientre plano que te ayudarán a lucir un cuerpo de infarto y a eliminar
         la acumulación de michelines en tu barriga.
 
+ 
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón Siguiente Post</title>
+    <title>Botones de Navegación</title>
     <style>
-        .btn-siguiente {
-            background-color: #4CAF50; /* Color del botón */
+        .btn-url {
+            background-color: #4CAF50; /* Color de los botones */
             border: none;
             color: white;
             padding: 15px 32px;
@@ -56,7 +57,7 @@
             text-decoration: none;
             display: inline-block;
             font-size: 16px;
-            margin: 10px 2px;
+            margin: 10px 5px;
             cursor: pointer;
             border-radius: 5px;
         }
@@ -64,8 +65,11 @@
 </head>
 <body>
 
-    <a href="https://viidei.icu/rrrr.html" class="btn-siguiente">Siguiente Post</a>
+    <a href="URL_1" class="btn-url">1</a>
+    <a href="URL_2" class="btn-url">2</a>
+    <a href="URL_3" class="btn-url">3</a>
+    <a href="URL_4" class="btn-url">4</a>
+    <a href="URL_5" class="btn-url">5</a>
 
 </body>
 </html>
-
