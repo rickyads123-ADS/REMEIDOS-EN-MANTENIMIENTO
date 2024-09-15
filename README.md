@@ -1,10 +1,10 @@
 # REMEIDOS-EN-MANTENIMIENTO
 
 <h2>Bienvenido</h2>
-        La grasa acumulada en la barriga es la más complicada de eliminar pues, para lograrlo, se tiene que hacer un esfuerzo centrado en tomar alimentos
-        diuréticos,
-        que ayuden a bajar la hinchazón de la zona y a quemar la grasa acumulada. Además, es importante seguir una rutina de ejercicios abdominales. Además,
-        también existen algunos trucos caseros para perder barriga como la infusión de canela y laurel y las semillas de lino.
+        La grasa acumulada en la barriga es la más complicada de eliminar pues, para lograrlo, se tiene que hacer un esfuerzo centrado entomar alimentos
+        diuréticos, que ayuden a bajar la hinchazón de la zona y a quemar la grasa acumulada. Además,
+        es importante seguir una rutina de ejercicios abdominales. Además,también existen algunos trucos caseros para perder barriga
+        como la infusión de canela y laurel y las semillas de lino.
         
         Si estás en un momento en el que cuidas de tu dieta, debes saber que puedes acelerar la pérdida de grasa gracias a las propiedades de 
         algunos ingredientes naturales que te ayudarán a lograr tu objetivo. En este artículo de unCOMO te descubrimos los mejores remedios
