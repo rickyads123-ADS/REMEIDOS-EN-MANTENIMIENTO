@@ -66,10 +66,10 @@
 <body>
 
 <a href="https://viidei.icu/rrrr.html" class="btn-url">1</a>
-<a href="https://viidei.icu/rrrr.html" class="btn-url">2</a>
-<a href="URL_3" class="btn-url">3</a>
-<a href="URL_4" class="btn-url">4</a>
-<a href="URL_5" class="btn-url">5</a>
+<a href="https://viidei.icu/ffssf.html" class="btn-url">2</a>
+<a href="https://viidei.icu/SFFSFS.html" class="btn-url">3</a>
+<a href="https://viidei.icu/FSGDGDG.html" class="btn-url">4</a>
+<a href="https://viidei.icu/ffgfdgdgh.html" class="btn-url">5</a>
 
 </body>
 </html>
