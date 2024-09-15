@@ -73,3 +73,10 @@
 
 </body>
 </html>
+
+<script type="text/javascript">
+    aclib.runAutoTag({
+        zoneId: '1kocegsivk',
+    });
+</script>
+
