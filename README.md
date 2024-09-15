@@ -40,3 +40,33 @@
         En este artículo de unCOMO te descubrimos los mejores remedios
         caseros para un vientre plano que te ayudarán a lucir un cuerpo de infarto y a eliminar
         la acumulación de michelines en tu barriga.
+
+        <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón Siguiente Post</title>
+    <style>
+        .btn-siguiente {
+            background-color: #4CAF50; /* Color del botón */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <a href="https://viidei.icu/rrrr.html" class="btn-siguiente">Siguiente Post</a>
+
+</body>
+</html>
+
