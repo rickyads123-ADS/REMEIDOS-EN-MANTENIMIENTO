@@ -9,7 +9,10 @@
         algunos ingredientes naturales que te ayudarán a lograr tu objetivo. En este artículo de unCOMO te descubrimos los mejores remedios caseros para un vientre plano 
         que te ayudarán a lucir un cuerpo de infarto y a eliminar la acumulación de michelines en tu barriga.</p>
         
-        <p> Para conseguir un vientre plano también puedes aprovechar los beneficios del jengibre, una planta que tiene propiedades ideales para bajar de peso y quemar la grasa acumulada en la barriga. El motivo es que el jengibre actúa como un quemagrasas al activar el funcionamiento del metabolismo y, por tanto, hacer que nuestro cuerpo consuma una mayor cantidad de calorías diarias de las que habitualmente consume.</p>
+        <p> Para conseguir un vientre plano también puedes aprovechar los beneficios del jengibre, una planta que t
+        iene propiedades ideales para bajar de peso y quemar la grasa acumulada en la barriga. El motivo es que el jengibre actúa 
+        como un quemagrasas al activar el funcionamiento del metabolismo y, por tanto, hacer que nuestro cuerpo consuma una mayor 
+        cantidad de calorías diarias de las que habitualmente consume.</p>
         
         <p>Además de esto, el jengibre también es ideal para bajar la hinchazón del vientre y para mejorar los procesos 
         digestivos haciendo, por tanto, que las digestiones sean más saludables, que se eviten condiciones como el estreñimiento 
