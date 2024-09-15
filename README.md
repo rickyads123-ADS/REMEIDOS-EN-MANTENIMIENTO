@@ -1,6 +1,6 @@
 # REMEIDOS-EN-MANTENIMIENTO
 
-<h2>Bienvenido</h2>
+<h2>REMEDIOS PARA LOS RATONES </h2>
         La grasa acumulada en la barriga es la más complicada de eliminar pues, para lograrlo, se tiene que hacer un
         esfuerzo centrado entomar alimentos
         diuréticos, que ayuden a bajar la hinchazón de la zona y a quemar la grasa acumulada. Además,
