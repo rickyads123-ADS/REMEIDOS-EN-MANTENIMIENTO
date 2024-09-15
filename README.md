@@ -41,7 +41,6 @@
         caseros para un vientre plano que te ayudarán a lucir un cuerpo de infarto y a eliminar
         la acumulación de michelines en tu barriga.
 
-        <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
